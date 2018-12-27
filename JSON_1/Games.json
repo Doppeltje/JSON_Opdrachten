@@ -1,0 +1,26 @@
+{
+  "World of Warcraft":
+  {
+    "Characters":
+    [
+      {
+        "Name":"Jaina Proudmoore"
+      },
+      {
+        "Name":"Sargeras"
+      }
+    ]
+  },
+  "Diablo III":
+  {
+    "Characters":
+    [
+      {
+        "Name":"Tyrael"
+      },
+      {
+        "Name":"Diablo"
+      }
+    ]
+  }
+}

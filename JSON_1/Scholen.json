@@ -1,0 +1,35 @@
+{
+  "School":
+  {
+    "Mediacollege":
+    {
+      "category": "MBO",
+      "nr_students": 20000,
+      "courses":
+      {
+        "MD": "Mediadevelopment",
+        "GD": "Gamedevelopment"
+      }
+    },
+    "Horizoncollege":
+    {
+      "category": "MBO",
+      "nr_students": 10000,
+      "courses":
+      {
+        "VZ": "Verzorging",
+        "HM": "Hospitalitymanagement"
+      }
+    },
+    "Martinus College":
+    {
+      "category": "VMBO",
+      "nr_students": 4750,
+      "courses":
+      {
+        "MM": "Mediamanagement",
+        "BV": "Bouwvakker"
+      }
+    }
+  }
+}
